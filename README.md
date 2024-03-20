@@ -3,7 +3,6 @@ This repository contains R scripts and data visualizations created during my Dat
 
 ### Consumer Behavior Analysis
 - Analyzed transaction data to identify purchasing patterns of different customer segments.
-- Tools used: R, dplyr, ggplot2.
 
 ### Trial Store Analysis
 - Conducted AB testing on store layouts to evaluate the impact on sales performance.
